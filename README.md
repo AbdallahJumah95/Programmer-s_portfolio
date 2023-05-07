@@ -19,13 +19,15 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
-**[Hello Microverse]** First project in microverse!
+# 📖 [Abdallah Alshaer's Portfolio] <a name="about-project"></a>
+**[Abdallah Alshaer's Portfolio]** second project in microverse!
 
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Key Features <a name="key-features"></a>
 - **[using linters]**
+- **[technologies used in the project HTML and CSS]
+- [building and HTML page and Css page as well, two pages]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
